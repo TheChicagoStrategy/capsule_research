@@ -1,0 +1,57 @@
+Monday July 11th:
+
+Review and possibly sign contract
+Book breakfast x 
+Book ronnie scotts x 
+Preapre and send over bank details to Mama x 
+Understand graduation x 
+prepare bag for tomorrow morning 
+
+Jul 17th:
+
+1st model to predict E using:
+Excipient
+Divide on Mups vs Spim
+Pellet - may divide further
+Compaction Pressure -> look at 40 in particular
+Family 
+MPS - mean particle size
+Span
+BD - bulk density 
+HR - hausner ratio
+Y material yield pressure
+
+July 18th:
+Data downloaded  x 
+Folder structure formulated  x 
+Data import code
+Modelling strategy
+
+
+CP = 40
+HR & AoR :  0.827
+HR & MPS : -0.741
+HR & BD  : -0.936
+AoR & MPS: -0.946
+Span & Y :  0.754
+
+
+
+
+
+
+E, per CP level
+
+Span
+MPS
+HR
+Y
+Pellet
+
+Might matter more for spim than nups
+
+
+
+
+
+
